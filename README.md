@@ -17,7 +17,7 @@ This project was built using the following technologies:
 
 3. **Open the app**:
    - Open the `index.html` file in your preferred web browser.
-   - Alternatively, you can deploy the project to a server to take full advantage of all the features, such as dynamic email generation and inbox management.
+   - Alternatively, you can deploy the project to a server to take full advantage of all the features.
 
 ## 🛠️ Developer
 
