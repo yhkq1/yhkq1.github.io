@@ -43,4 +43,4 @@ For major changes, please open an issue first to discuss what you'd like to chan
 [![CC NC](https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1)](https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1)
 [![CC SA](https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1)](https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1)
 
-[**yhkq1.github.io**](https://github.io/yhkq1/yhkq1.github.io) by [**Janis | @yhkq1**](https://github.io/yhkq1) is licensed under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1).
+[**yhkq1.github.io**](https://github.com/yhkq1/yhkq1.github.io) by [**Janis | @yhkq1**](https://github.com/yhkq1) is licensed under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1).
