@@ -1,0 +1,62 @@
+==================================================================
+https://keybase.io/yhkq1
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://yhkq1.vercel.app
+  * I am yhkq1 (https://keybase.io/yhkq1) on keybase.
+  * I have a public key with fingerprint 3B9C A629 99A6 6BFE BD85  9EFA CA2C 7161 B3DB 878F
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0116061829a460c032d1794f4a515d1a5c5d3f2cdbd9aab395bac81fc3d3ee84f4d60a",
+      "fingerprint": "3b9ca62999a66bfebd859efaca2c7161b3db878f",
+      "host": "keybase.io",
+      "key_id": "ca2c7161b3db878f",
+      "kid": "0116061829a460c032d1794f4a515d1a5c5d3f2cdbd9aab395bac81fc3d3ee84f4d60a",
+      "uid": "c3e5c3060cb6579f8fe5163d60cf2719",
+      "username": "yhkq1"
+    },
+    "service": {
+      "hostname": "yhkq1.vercel.app",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1766351705,
+  "expire_in": 157680000,
+  "prev": "dcc96c845150b526e1e58e07fb8abf47c04bfa1a64407e2f6869a98ae15fe8d1",
+  "seqno": 3,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owGtkj1oFEEUx/c0Ih5ELSSIEDBjo3gcM7s7szMXbARBO7WRYHHMx5u75c7dvd29
+i0eInRqwMNgFP8rDXitRSGGlRLQTRazTCCIKShBnowELS6cZ5r3f//8+mNXp3V59
+5kVjIB+9v3m79nJTefFZ3V5CKjVj1FpCPdi+oG+gKNu92KAWwoQwzAj3hQwZ1jjw
+DYlEaENJCTVEUk1NYH1tlBFSqkBQJTUnVgcmAOAONAxL1EA2TjqQZ3mclM42UEJL
+5gshJGPKgjKcCrBSS19HhBEVGMUjbp2wmxaVwjWnZAHNOHUx92hvt/cP/j/3Pfxd
+JwCqA+ycFKORsNwCJSxwjLZ+REQFFpAn8go4etztDQhabiAXGsUaqq1WY/ydbo4g
+19Bvyixz4ixPy1SnfZftlmVWtCp1Oc4qfBFU+49RW8WJcYt0Cicv4jRBLeJIXcaV
+M4kYCyiJMG0guJrFObTjiqAR49idqg6MnKXRWjC9wEO3DKyoz4AA5YAjq7hUNow0
+DpWVRLIwxBH4lnEmpOASCLXADUHVbIMkRa3A9Sk7zrOIO4kshzmg5frKcMqbqXuz
+M3NT8/cmJ9YmvZ/Prj/4sfP39uyqPp5X33dwJ3Lqrbc1vfl4cmfx4+u9n9SHV8dW
+vq+efnj0/Ma1W4c+w7vOkbWLNe/r/vWnz+e7x2fPPXlzYeHSyfs37m6tX974dviL
+mTtQnKn9Ag==
+=07AD
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/yhkq1
+
+==================================================================
